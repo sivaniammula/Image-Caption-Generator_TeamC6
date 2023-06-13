@@ -1,0 +1,5 @@
+
+
+environment with python 3.8 created
+
+https://www.kaggle.com/datasets/adityajn105/flickr8k
